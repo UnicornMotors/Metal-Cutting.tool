@@ -14,5 +14,8 @@ index:
 # Type:
 ## Diamond
 ### Lenox Metalmax
-https://www.cutwithlenox.com/product/1972927/lenox-metalmax
-- 
+Home: https://www.cutwithlenox.com/products/accessories/cutting-grinding-accessories/diamond
+
+index:
+- https://www.cutwithlenox.com/product/1972921/lenox-metalmax?tid=568846
+- https://www.cutwithlenox.com/product/1972927/lenox-metalmax
