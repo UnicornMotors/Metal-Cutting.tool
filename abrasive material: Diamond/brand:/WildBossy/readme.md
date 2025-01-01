@@ -8,3 +8,7 @@ Color 	4-1/2in-1pc
 Style 	4-1/2inch
 Item Thickness 	1.07 Inches
 Compatible Material 	Alloy Steel, Iron, Metal
+
+sch: https://www.google.com/search?q=WildBossy+diamond+wheel
+
+https://www.amazon.com/WildBossy-Metal-Cutting-Disc/dp/B0CP53FSGS
