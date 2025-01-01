@@ -1,3 +1,5 @@
+sch: https://www.google.com/search?q=WildBossy+diamond+wheel
+
 # Diamond Cutting Wheel 4-1/2 Inch (5PCS) with 7/8" Arbor Hole, Metal Cut Off Disc with 5000+ Cuts on Rebar, Steel, Iron and INOX 
 https://www.amazon.com/Diamond-Cutting-Wheel-Arbor-Metal/dp/B0C6LHC591/144-3953765-8529851
 
@@ -9,6 +11,5 @@ Style 	4-1/2inch
 Item Thickness 	1.07 Inches
 Compatible Material 	Alloy Steel, Iron, Metal
 
-sch: https://www.google.com/search?q=WildBossy+diamond+wheel
-
+# Diamond Cutting Wheel 3 Inch (5PCS) with 3/8" Arbor Hole, Metal Cut Off Disc with 5000+ Cuts on Rebar, Steel, Iron and INOX 
 https://www.amazon.com/WildBossy-Metal-Cutting-Disc/dp/B0CP53FSGS
